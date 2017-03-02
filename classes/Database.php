@@ -2,10 +2,10 @@
 
 class Database
 {
-    private $host = 'localhost:3306';
-    private $user = 'root';
-    private $pass = '199526tf';
-    private $base = 'ua-media';
+    private $host = '****';
+    private $user = '****';
+    private $pass = '****';
+    private $base = '****';
     public $mysqli;
 
     public function __construct()
